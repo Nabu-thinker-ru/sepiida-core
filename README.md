@@ -1,0 +1,4 @@
+sepiida-core
+============
+
+Core applications
